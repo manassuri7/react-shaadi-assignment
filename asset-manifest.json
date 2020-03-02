@@ -1,11 +1,11 @@
 {
-  "main.js": "/manassuri7/react-shaadi-assignment/static/js/main.d9a8aa47.chunk.js",
-  "main.js.map": "/manassuri7/react-shaadi-assignment/static/js/main.d9a8aa47.chunk.js.map",
-  "static/js/1.f7b2a241.chunk.js": "/manassuri7/react-shaadi-assignment/static/js/1.f7b2a241.chunk.js",
-  "static/js/1.f7b2a241.chunk.js.map": "/manassuri7/react-shaadi-assignment/static/js/1.f7b2a241.chunk.js.map",
-  "runtime~main.js": "/manassuri7/react-shaadi-assignment/static/js/runtime~main.287c4d5e.js",
-  "runtime~main.js.map": "/manassuri7/react-shaadi-assignment/static/js/runtime~main.287c4d5e.js.map",
-  "index.html": "/manassuri7/react-shaadi-assignment/index.html",
-  "precache-manifest.eb18fc3e937db88fe913a93ad3b62ea0.js": "/manassuri7/react-shaadi-assignment/precache-manifest.eb18fc3e937db88fe913a93ad3b62ea0.js",
-  "service-worker.js": "/manassuri7/react-shaadi-assignment/service-worker.js"
+  "main.js": "/react-shaadi-assignment/static/js/main.66151841.chunk.js",
+  "main.js.map": "/react-shaadi-assignment/static/js/main.66151841.chunk.js.map",
+  "static/js/1.d4e2e29e.chunk.js": "/react-shaadi-assignment/static/js/1.d4e2e29e.chunk.js",
+  "static/js/1.d4e2e29e.chunk.js.map": "/react-shaadi-assignment/static/js/1.d4e2e29e.chunk.js.map",
+  "runtime~main.js": "/react-shaadi-assignment/static/js/runtime~main.3d317689.js",
+  "runtime~main.js.map": "/react-shaadi-assignment/static/js/runtime~main.3d317689.js.map",
+  "index.html": "/react-shaadi-assignment/index.html",
+  "precache-manifest.2180a331c9866f71e6832f6b87e0d941.js": "/react-shaadi-assignment/precache-manifest.2180a331c9866f71e6832f6b87e0d941.js",
+  "service-worker.js": "/react-shaadi-assignment/service-worker.js"
 }
